@@ -14,26 +14,26 @@ Shorter version for tight spaces:
 
 ## 2. Sales page description (copy–paste ready)
 
-> ### Stop losing matches you should win.
+> ### The off-court training your opponents don't even know about.
 >
-> Most badminton players spend 100% of their time hitting shuttles — and then wonder why they fade in the third game, get beaten to the shuttle, or pick up the same niggling injuries.
+> Most "badminton fitness" advice is recycled gym tips with a shuttle on the cover. *Eat protein. Sleep 8 hours.* You already know that — and it's not winning you matches.
 >
-> The truth? The biggest gains happen **off** the court.
+> **The Off-Court Edge** goes to the layer underneath: how badminton *actually* loads your body and how points are *actually* won. It's written for players who already train and want the real, sport-specific stuff.
 >
-> **The Off-Court Edge** is the complete, badminton-specific guide to everything that makes you faster, fitter, sharper, and more durable — without needing a fancy gym or a sports science degree.
+> **Inside you'll learn things most players never figure out:**
+> - 💥 Where smash power **really** comes from (hint: it's not the wrist) — and the off-court drills that build it
+> - 🦵 **Braking / eccentric strength** and tendon isometrics that prevent jumper's knee and Achilles trouble — the injuries that actually sideline badminton players
+> - ⚡ Why the **split-step is a plyometric**, and how to train the elastic, reactive power that wins the first step
+> - 🏃 Why **long-distance running makes you slower** — and the interval conditioning that matches badminton's real rally:rest demands
+> - 🍌 How to fuel a chaotic **tournament day** with unpredictable gaps, and how to stop **cramping** in hot halls
+> - 🌬️ How to **read hall drift**, choose ends, test the shuttle, and use the 11-point interval — free points most club players miss
+> - 🎽 The **gear mistakes** (shoes, string tension, grip size) quietly causing your elbow, knee, and ankle pain
+> - 🧠 Momentum management, deuce-pressure routines, and the racket-side **asymmetry** that's hiding your injury risk and untapped speed
+> - 📅 A periodised plan around competition + **badminton-specific fitness tests** (not generic ones)
 >
-> **Inside this guide you'll get:**
-> - 🏋️ A simple, no-equipment-needed **strength program** built around the 5 movements badminton actually uses
-> - ⚡ **Plyometric circuits** for a sharper jump smash and explosive first step
-> - 🏃 **Agility & footwork drills** you can do anywhere to win the race to the shuttle
-> - 🥗 A no-nonsense **nutrition framework** plus a match-day eating plan
-> - 😴 The **sleep & recovery** habits that quietly beat hours of extra practice
-> - 🧠 A practical **mental game** toolkit for staying calm and winning the big points
-> - 📅 A **ready-to-use weekly plan** and a **progress tracker** so you actually see results
+> No fluff, no filler, no advice you've heard a hundred times. Just the deep, sport-specific edge.
 >
-> Written specifically for badminton players — every drill and tip is chosen because it transfers to the court.
->
-> **Train smart. Move faster. Last longer. Win more.**
+> **Train the things your opponents don't even know about.**
 >
 > *Instant PDF download. Start today.*
 
@@ -41,7 +41,7 @@ Shorter version for tight spaces:
 
 ## 3. Short "blurb" (for posts, link previews, social)
 
-> The off-court training most badminton players ignore — strength, plyos, agility, nutrition, sleep & mental game — all in one simple, badminton-specific guide. Only need 3–4 short sessions a week. Instant PDF.
+> The deep, badminton-specific off-court training most players never figure out: where smash power really comes from, the injuries that actually sideline players and how to prevent them, interval conditioning that beats jogging, tournament-day fuelling, reading hall drift, and the gear mistakes hurting your joints. Not generic fitness — the real edge. Instant PDF.
 
 ---
 
@@ -49,23 +49,23 @@ Shorter version for tight spaces:
 
 | Option | Price | When to use |
 |---|---|---|
-| **Launch price** | **NZ$7** | Best all-rounder. Low enough to be an easy "yes," high enough to hit your goal in 3 sales. |
-| Budget / impulse | NZ$5 | If you want maximum volume and reviews fast. |
-| Premium feel | NZ$9–12 | If you add a cover design + maybe a bonus (e.g. a printable weekly planner). |
+| **Launch price** | **NZ$9** | Recommended. The content is deep and genuinely niche, so it supports a bit more than a basic guide. Hits your goal in ~2–3 sales. |
+| Easy-yes / volume | NZ$7 | If you want faster sales and reviews early on. |
+| Premium feel | NZ$12–15 | If you add a cover design + a bonus (e.g. a printable weekly planner or the test tracker as a separate sheet). |
 
-**Tip:** On Gumroad/Ko-fi you can set "pay what you want" with NZ$7 as the suggested minimum — some buyers pay more.
+**Tip:** On Gumroad/Ko-fi you can set "pay what you want" with NZ$9 as the suggested minimum — some buyers pay more.
 
-**Your goal math:** at NZ$7, you hit NZ$20+/month with just **3 sales**. At NZ$5, you need 4.
+**Your goal math:** at NZ$9, you hit NZ$20+/month with just **3 sales** (and clear it with 2 most months). At NZ$7, you need 3.
 
 ---
 
 ## 5. FAQ section (add to the listing — reduces hesitation)
 
-**Do I need a gym?**
-No. Most of the program uses bodyweight, a resistance band, and optional dumbbells. Gym options are included if you have access.
+**Who is this for?**
+Players who already play and train and want to break a plateau — club, league, and competitive players. Keen beginners will still get a lot from it, but it assumes you want the deeper "why," not just a starter routine.
 
-**I'm a beginner — is this too advanced?**
-No. Everything starts at a beginner level with clear progressions as you improve.
+**Do I need a gym?**
+No. Most of it uses bodyweight, a resistance band, a medicine ball, and optional dumbbells. Gym alternatives are included if you have access.
 
 **How long are the workouts?**
 Most sessions are 15–30 minutes. There's a minimum plan for as little as 2–3 hours a week.
@@ -84,7 +84,7 @@ No — it's general educational guidance. The guide includes a disclaimer and re
 1. Create a free account at **Gumroad.com** (or **Ko-fi.com** — both let you sell digital downloads for free; they take a small cut per sale).
 2. Connect a payout method (PayPal or your NZ bank — this is the part only you can do).
 3. Create a new product → upload the **PDF** (made from the HTML — see below).
-4. Paste in the **title**, **description**, **FAQ**, and set the **price** to NZ$7.
+4. Paste in the **title**, **description**, **FAQ**, and set the **price** to NZ$9.
 5. Add a cover image (see the cover concept file / make one free in Canva).
 6. Hit publish and copy your product link.
 
