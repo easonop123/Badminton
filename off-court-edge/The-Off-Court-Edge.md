@@ -20,11 +20,9 @@ I really hope it helps your game as much as it helped mine. If it does, I'd genu
 
 See you on the other side of the net,
 
-[[SIGN:[Your name here]]]
+[[SIGN:Ben]]
 
-[[AUTHOR:YOU|[Your name] — badminton player & coach|*Replace this with a line about you: your club, your level, why you love the game.*]]
-
-> **Make this yours:** the note above is written in your voice — swap in your name and tweak a sentence or two so it sounds like *you*. A personal hello is what turns a "PDF" into something people connect with.
+[[AUTHOR:B|Ben — player & coach|Club competitor, junior coach, and lifelong shuttle addict. I learned all of this the slow, frustrating way — this guide is the shortcut I wish someone had handed me years ago.]]
 
 ---
 
@@ -394,7 +392,7 @@ Now go and train the things your opponents don't even know about. I'll be cheeri
 
 See you on the other side of the net,
 
-[[SIGN:[Your name here]]]
+[[SIGN:Ben]]
 
 ---
 
