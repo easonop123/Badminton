@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Off-Court Edge — Cover</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    height: 100%; background: #041f14;
+    display: flex; align-items: center; justify-content: center;
+    font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-print-color-adjust: exact; print-color-adjust: exact;
+  }
+  /* 4:5 portrait cover card */
+  .cover {
+    position: relative; aspect-ratio: 4 / 5; height: 94vh; max-width: 96vw;
+    background:
+      radial-gradient(120% 70% at 50% -10%, #15803d 0%, #0f5132 38%, #06281a 100%);
+    border-radius: 18px; overflow: hidden;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    text-align: center; color: #fff; padding: 6%;
+    box-shadow: 0 18px 60px rgba(0,0,0,.5);
+  }
+  /* faint court lines motif */
+  .court {
+    position: absolute; inset: 7% 9%; border: 2px solid rgba(255,255,255,.10);
+    border-radius: 4px; pointer-events: none;
+  }
+  .court::before { content:""; position:absolute; left:0; right:0; top:50%;
+    border-top: 2px solid rgba(255,255,255,.10); }
+  .court::after { content:""; position:absolute; top:0; bottom:0; left:50%;
+    border-left: 2px solid rgba(255,255,255,.07); }
+
+  .shuttle { width: 15vh; height: 15vh; margin-bottom: 3vh; z-index: 1;
+             filter: drop-shadow(0 6px 14px rgba(0,0,0,.35)); }
+  .kicker { z-index:1; letter-spacing: 0.42em; font-size: 1.9vh; color: #86efac;
+            font-weight: 700; margin-bottom: 2vh; text-transform: uppercase; }
+  .title { z-index:1; font-size: 9.2vh; line-height: 0.98; font-weight: 800;
+           letter-spacing: -0.01em; text-shadow: 0 3px 18px rgba(0,0,0,.45);
+           text-transform: uppercase; }
+  .rule { z-index:1; width: 12vh; height: 0.7vh; background: #22c55e;
+          border-radius: 4px; margin: 3vh 0; }
+  .sub { z-index:1; font-size: 2.9vh; color: #d1fae5; font-weight: 600;
+         max-width: 80%; line-height: 1.3; }
+  .chips { z-index:1; display:flex; flex-wrap:wrap; gap: 1.2vh; justify-content:center;
+           margin-top: 4vh; max-width: 92%; }
+  .chips span { background: rgba(255,255,255,.10); border: 1px solid rgba(134,239,172,.45);
+                color:#ecfdf5; padding: 1vh 2.2vh; border-radius: 999px;
+                font-size: 1.7vh; font-weight: 600; }
+  .author { z-index:1; position: absolute; bottom: 5%; font-size: 2.1vh;
+            color: #a7f3d0; font-weight: 600; letter-spacing: 0.04em; }
+</style>
+</head>
+<body>
+  <div class="cover">
+    <div class="court"></div>
+
+    <svg class="shuttle" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <polygon points="36,64 64,64 84,12 16,12" fill="#ffffff" fill-opacity="0.95" stroke="#86efac" stroke-width="2"/>
+      <line x1="50" y1="64" x2="50" y2="12" stroke="#bbf7d0" stroke-width="1.5"/>
+      <line x1="43" y1="64" x2="31" y2="12" stroke="#bbf7d0" stroke-width="1.5"/>
+      <line x1="57" y1="64" x2="69" y2="12" stroke="#bbf7d0" stroke-width="1.5"/>
+      <line x1="29" y1="38" x2="71" y2="38" stroke="#bbf7d0" stroke-width="1.2"/>
+      <line x1="24" y1="26" x2="76" y2="26" stroke="#bbf7d0" stroke-width="1"/>
+      <ellipse cx="50" cy="73" rx="16" ry="14" fill="#15803d"/>
+      <ellipse cx="50" cy="70" rx="16" ry="9.5" fill="#22c55e"/>
+    </svg>
+
+    <div class="kicker">Badminton Performance Guide</div>
+    <h1 class="title">The<br>Off-Court<br>Edge</h1>
+    <div class="rule"></div>
+    <div class="sub">Training, Recovery &amp; Performance Beyond the Court</div>
+
+    <div class="chips">
+      <span>Smash Power</span>
+      <span>Footwork</span>
+      <span>Conditioning</span>
+      <span>Nutrition</span>
+      <span>Mindset</span>
+    </div>
+
+    <div class="author">by Ben</div>
+  </div>
+</body>
+</html>
