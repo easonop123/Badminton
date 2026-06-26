@@ -2,7 +2,7 @@
 
 Written in Ben's voice. The golden rule online: **lead with value, not "buy my thing."**
 Give people something genuinely useful first; the link is the PS, not the point.
-Replace `[your Ko-fi link]` with your real link, and `[your handle]` where needed.
+Replace `https://ko-fi.com/s/fb6250262d` with your real link, and `[your handle]` where needed.
 
 > Tip: don't blast all platforms in one day. Space them out. And ALWAYS read each
 > community's self-promotion rules first — some require you to be an active member
@@ -64,7 +64,7 @@ These build an audience that keeps your link selling. Keep them 15–30s, one ti
 
 Hey everyone 👋 I've put together a guide on all the *off-court* stuff that actually improves your badminton — strength, footwork, conditioning, fuelling for tournaments, and the mental side — the things we don't really cover at training. Written it to be practical, not a textbook.
 
-If you've ever faded in a third game, picked up the same niggles, or wondered why someone fitter beats you despite worse shots, it's for you. It's NZ$9 here: [your Ko-fi link]
+If you've ever faded in a third game, picked up the same niggles, or wondered why someone fitter beats you despite worse shots, it's for you. It's NZ$9 here: https://ko-fi.com/s/fb6250262d
 
 No pressure at all — but happy to answer any training questions either way 🏸
 
