@@ -35,6 +35,9 @@ Badminton rallies are short and ferocious — typically a **few seconds of all-o
 
 That means:
 - The dominant fuel systems are the **immediate (ATP-PC)** and **anaerobic glycolytic** systems, sitting on top of an **aerobic base** that powers recovery *between* rallies and across a long match.
+
+[[DIAGRAM:workrest|Badminton's work-to-rest pattern: short, maximal rallies followed by longer recoveries — repeated for 40–90 minutes. This is why interval training beats steady jogging.]]
+
 - **Long, slow distance running is largely the wrong tool.** It trains a steady-state quality badminton barely uses, recruits the wrong muscle fibres, and at high volumes can blunt the explosiveness you actually need. A light aerobic base is useful for recovery; grinding 10 km runs is not.
 - **The right conditioning is interval-based** and looks like the sport: repeated short maximal efforts with incomplete recovery (covered in Part 5).
 
@@ -49,6 +52,8 @@ Train to protect these (details and fixes in Parts 3–4):
 - **Shoulder (rotator cuff / impingement)** — the overhead clear/smash repeated endlessly.
 - **Lower back** — repeated extension-plus-rotation in the overhead and jump smash.
 
+[[DIAGRAM:injurymap|Badminton's most common breakdown points. Almost none are protected by a generic gym program — they need the specific eccentric and isometric work in Part 3.]]
+
 Almost none of these get protected by generic gym programs. They need specific, often *isometric* and *eccentric* work — that's the heart of Part 3.
 
 ---
@@ -62,6 +67,9 @@ Ask most players where smash power comes from and they'll say "the wrist." **Thi
 A hard smash is a sequence of body segments firing in order, each passing speed up the chain like a whip:
 
 **Ground → legs drive up → hips rotate → trunk rotates and flexes → shoulder internally rotates → forearm *pronates* → fingers squeeze at contact.**
+
+[[DIAGRAM:kineticchain|The smash kinetic chain. Each segment passes speed to the next like a whip — power is built from the ground up, not flicked from the wrist.]]
+
 
 The two parts almost everyone underestimates:
 1. **Forearm pronation, not "wrist flick."** The explosive power at the end of the chain is your forearm rapidly rotating (pronating), not your wrist snapping forward. The wrist mostly stabilises. If you "flick the wrist," you leak power and stress the joint. Off-court, this means training **forearm pronation/supination** strength and speed — not wrist curls.
@@ -145,6 +153,9 @@ Getting there fast is useless if you arrive out of control. Most players never t
 - **Approach jumps** — small chasse then vertical jump, like jumping into a smash.
 
 ### Off-court footwork that actually transfers: shadow + ghosting
+
+[[DIAGRAM:court6|The six court positions. Train moving explosively from base to each corner and recovering — with a real split-step — rather than running pre-set ladder patterns.]]
+
 - **6-corner shadow footwork** — move from base to all six court positions with full split-step, lunge, and recovery, holding good posture and a realistic racket position. Do it in **timed intervals** (see Part 5) so it doubles as conditioning.
 - **Ghosting to calls** — a partner/coach calls or points to corners randomly; you move and recover. The randomness trains decision speed, which choreographed ladders don't.
 - **Stay low between movements** and recover to a *tactical* base (slightly biased toward your opponent's likely reply), not always dead-centre.
@@ -234,6 +245,9 @@ At club level and above, the gap is rarely shot quality — it's the stuff aroun
 
 ### Read the hall before you read your opponent
 - **Drift:** indoor air movement pushes the shuttle to one end. In the knock-up, hit a few high clears to *both* ends and feel which way it drifts. Then plan: attack/clear with the drift behind you, play tighter and flatter against it. Most club players never even notice drift — noticing it is free points.
+
+[[DIAGRAM:drift|Reading hall drift. The same swing travels deep with the drift behind you but drops short into it — adjust your length and shot choice end-to-end.]]
+
 - **Choosing ends:** if you win the toss, consider taking the **good (downwind-disadvantaged… i.e. the harder) end first** while fresh, or the end with better background/lighting for the crucial third game — decide deliberately, not by habit.
 - **Shuttle speed:** check the shuttle suits the conditions; a too-fast or too-slow shuttle changes your length. Know the tester (hit a full underarm clear from the back line and see where it lands).
 
