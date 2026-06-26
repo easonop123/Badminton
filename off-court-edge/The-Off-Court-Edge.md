@@ -4,6 +4,30 @@
 
 ---
 
+## First, a quick word from me
+
+Hey — I'm really glad you've got this in your hands.
+
+Let me be honest with you before we get into any training. For years, I was the player who just turned up and hit. I loved the game, I practised my shots, and I genuinely thought that was enough. But I kept hitting a wall — losing to people I knew I was *technically* better than, fading in third games, picking up the same annoying niggles. And I couldn't work out why.
+
+It turned out the gap was never my shots. It was everything I *wasn't* doing away from the court.
+
+When I finally started training the off-court stuff properly — the way I'm about to share with you — my game changed more in a few months than it had in years of just hitting. I moved better, lasted longer, stopped getting hurt, and started winning the close ones. This guide is everything I wish someone had handed me back when I was stuck.
+
+Here's my promise to you: **no filler, no recycled fitness clichés, and nothing you can't actually use.** And here's my ask: don't try to do all of it at once. Pick *one* thing that hit home, give it an honest few weeks, and let it build from there. That's how this actually works.
+
+I really hope it helps your game as much as it helped mine. If it does, I'd genuinely love to hear about it.
+
+See you on the other side of the net,
+
+[[SIGN:[Your name here]]]
+
+[[AUTHOR:YOU|[Your name] — badminton player & coach|*Replace this with a line about you: your club, your level, why you love the game.*]]
+
+> **Make this yours:** the note above is written in your voice — swap in your name and tweak a sentence or two so it sounds like *you*. A personal hello is what turns a "PDF" into something people connect with.
+
+---
+
 ## Why this guide is different
 
 Most "badminton fitness" content is recycled general gym advice with a shuttle on the cover. This isn't that. Everything here is built around how badminton *actually* loads the body and how points are *actually* won — the things that separate players who plateau from players who keep climbing.
@@ -56,6 +80,8 @@ Train to protect these (details and fixes in Parts 3–4):
 
 Almost none of these get protected by generic gym programs. They need specific, often *isometric* and *eccentric* work — that's the heart of Part 3.
 
+[[PULLQUOTE:The shuttle doesn't care how good your smash is — only whether you arrived in balance to hit it.]]
+
 ---
 
 
@@ -77,6 +103,8 @@ The two parts almost everyone underestimates:
 
 ### The relaxation secret
 Elite power comes from **staying loose until the very last instant**, then tightening the grip and pronating explosively at contact. A permanently tight grip *slows* the racket head. This "loose-then-snap" is a timing skill, but off-court you can build the underlying quality: **fast, relaxed, then sharply accelerating rotational movements** (med-ball throws train exactly this feeling).
+
+[[STORY:From my own game — when I stopped "flicking my wrist"|For years I tried to smash harder by snapping my wrist as hard as I could. All it gave me was a sore elbow and a smash that still sat up nicely for my opponent. The day a coach showed me the power actually lives in forearm rotation — with a relaxed grip that only tightens at the last instant — my smash got heavier *and* my elbow stopped aching. Same effort, twice the shuttle. I still remember how strange "do less, but at the right moment" felt.]]
 
 ### Off-court training that builds smash power
 - **Rotational medicine-ball throws** (side throw into a wall, half-kneeling and standing) — the single best transfer exercise for smash and clear power. 3–4 sets of 4–6 explosive throws each side, fully recovered. Throw *fast*, not heavy.
@@ -104,6 +132,8 @@ For grumpy patellar or Achilles tendons, **isometric holds** build tendon stiffn
 - **Spanish squat** (band behind knees, hold a 70–90° knee angle) — 5 x 30–45s. Brilliant for patellar tendon.
 - **Isometric calf hold** (mid-range single-leg heel raise, hold) — 5 x 30s each leg, for the Achilles.
 Do these 2–3x/week, especially in heavy playing periods.
+
+[[STORY:From my own game — the niggle I wish I hadn't ignored|I had a tightness in my Achilles for weeks and kept telling myself it would settle if I just toughened up and pushed through. It didn't — it turned into months off the court, watching from the sideline. Here's what I'd tell my younger self: if a tendon warms up during play but aches again the next morning, that's not weakness to push through — it's an early warning. Ten minutes of isometrics a week is a lot cheaper than three months off. I learned that the expensive way so you don't have to.]]
 
 ### 3. Calf & Achilles robustness — non-negotiable after ~25
 Badminton's explosive push-offs make the Achilles a genuine rupture risk in adult players. Build capacity:
@@ -206,6 +236,8 @@ Badminton halls are often hot and humid, and three-game matches are long — a c
 - For long matches/hot halls, use a drink with **sodium/electrolytes**, not just water — plain water alone during heavy sweating can backfire.
 - If you're a heavy/salty sweater (white salt marks on kit), you likely need more sodium than most.
 
+[[STORY:From my own game — the third game I gave away|I was a game up and cruising in the second when my legs turned to concrete and both calves locked up with cramp. I lost in three to someone I really should have beaten. The honest truth? I'd barely eaten or drunk all day — too nervous in the morning, too busy between matches. I didn't lose that match on court. I lost it in the hours before I even stepped on. Now I treat tournament-day fuelling as part of my game, not an afterthought.]]
+
 ### Fuelling back-to-back matches
 - Between matches, prioritise **carbs to refill energy** plus fluids; add a little protein if the gap is long.
 - A useful rule: the **shorter the gap, the simpler and more liquid the fuel.**
@@ -258,6 +290,8 @@ At club level and above, the gap is rarely shot quality — it's the stuff aroun
 ### Momentum is the real opponent
 Badminton momentum swings hard and fast. The skill is **stopping a run**:
 - After losing 3–4 quick points, **deliberately slow the pace** — take your full time between points, change something small (serve placement, target), and reset your routine. Breaking the opponent's rhythm is a legitimate tactic.
+
+[[STORY:From my own game — blowing a 19–14 lead|Being ahead and then losing used to absolutely crush me. I'd tighten up, start rushing, and hand the points right back — and the more I panicked, the faster it slipped away. What finally fixed it wasn't a new shot or more power. It was a boring little routine between points: turn away, breathe out slowly, one clear thought, then play. Deliberately unglamorous — and it's won me more close games than any smash ever has. If you only steal one habit from this guide, steal this one.]]
 - Between points, a fixed micro-routine (turn away, adjust strings, one long exhale, one cue word, ready) keeps emotion from leaking into the next rally.
 
 ### Pre-match prep that works
@@ -340,14 +374,29 @@ Write your numbers, then beat them — and watch the **left/right gaps shrink**,
 
 ---
 
-## Final word
+## Real talk before you go
+
+Here's the part most guides leave out: **you're going to miss sessions.** Life gets busy, motivation dips, and some weeks the gym is the last place you want to be. That's normal — it doesn't mean you've failed.
+
+The players who improve aren't the ones who never slip. They're the ones who, after a bad week, just quietly start again. Don't aim for perfect. Aim for *most weeks, most of the time*, for a long time. That's genuinely all it takes, and it beats a heroic month followed by giving up every single time.
+
+So be kind to yourself, keep it simple, and keep showing up.
+
+[[PULLQUOTE:You don't rise to your talent on match day — you fall to the level of your preparation. So prepare for the player you want to become.]]
+
+## A final word
 
 The players who keep improving aren't grinding more shuttles than everyone else — they're the ones who understand the sport's real demands and train the hidden layers: braking strength, elastic footwork, the smash kinetic chain, interval conditioning, tournament fuelling, and the tactical reads around the points. Pick one layer, give it six honest weeks, track it, and you'll feel it on court.
 
-Now go train the things your opponents don't even know about.
+I'm genuinely excited for you. The fact that you read this far tells me you care about getting better — and that's the hardest part to teach. The rest is just showing up.
 
-*— The Off-Court Edge*
+Now go and train the things your opponents don't even know about. I'll be cheering for you.
+
+See you on the other side of the net,
+
+[[SIGN:[Your name here]]]
 
 ---
+
 
 *Thank you for buying this guide. If it helped your game, a quick review or passing it to a clubmate means a lot. Train smart, play sharp.*

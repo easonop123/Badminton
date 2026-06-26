@@ -83,6 +83,33 @@ figcaption { font-size: 0.82rem; color: #64748b; margin-top: 8px; font-style: it
 .chips span { background: rgba(255,255,255,.12); border: 1px solid rgba(134,239,172,.5);
               color: #ecfdf5; padding: 6px 13px; border-radius: 999px; font-size: 0.82rem; font-weight: 600; }
 
+/* Personal "from my own game" story sidebars (warm tone) */
+.story { background: #fffbeb; border: 1px solid #fde68a; border-left: 5px solid #f59e0b;
+         border-radius: 8px; padding: 0.85rem 1.1rem; margin: 1.3rem 0; page-break-inside: avoid; }
+.story-title { font-size: 0.72rem; letter-spacing: 1.5px; text-transform: uppercase;
+               color: #b45309; font-weight: 700; margin-bottom: 4px; display: block; }
+.story p { margin: 0.2rem 0; color: #4b3f1f; }
+
+/* Pull quotes */
+.pullquote { position: relative; max-width: 600px; margin: 2rem auto; text-align: center;
+             font-size: 1.4rem; line-height: 1.4; font-style: italic; color: #0b3d2e;
+             padding: 0 10px; page-break-inside: avoid; }
+.pullquote::before { content: "\\201C"; display: block; font-size: 3.4rem; color: #86efac;
+                     line-height: 0.6; margin-bottom: 6px; }
+.pullquote .attr { display: block; font-size: 0.85rem; color: #64748b; font-style: normal; margin-top: 10px; }
+
+/* Author card + signature */
+.authorcard { display: flex; align-items: center; gap: 14px; background: #f0fdf4;
+              border: 1px solid #bbf7d0; border-radius: 10px; padding: 12px 16px; margin: 1.2rem 0; }
+.avatar { flex: 0 0 auto; width: 54px; height: 54px; border-radius: 50%; background: #0b3d2e;
+          color: #fff; font-weight: 700; font-size: 1.2rem; display: flex; align-items: center;
+          justify-content: center; letter-spacing: 1px; }
+.authorcard .who { font-size: 0.95rem; }
+.authorcard .who strong { color: #0b3d2e; }
+.authorcard .who span { color: #64748b; font-size: 0.85rem; }
+.signature { font-family: "Segoe Script", "Brush Script MT", "Comic Sans MS", cursive;
+             font-size: 1.6rem; color: #0b3d2e; margin: 4px 0; }
+
 @media print { body { padding: 0; } a { color: inherit; text-decoration: none; } }
 """
 
@@ -294,6 +321,38 @@ def convert(md):
                     fig += f"<figcaption>{inline(cap)}</figcaption>"
                 fig += "</figure>"
                 out.append(fig)
+            i += 1
+            continue
+
+        m_story = re.match(r"^\[\[STORY:(.+?)\|(.+)\]\]$", stripped)
+        if m_story:
+            close_list()
+            out.append(f'<div class="story"><span class="story-title">{inline(m_story.group(1))}</span>'
+                       f'<p>{inline(m_story.group(2))}</p></div>')
+            i += 1
+            continue
+
+        m_quote = re.match(r"^\[\[PULLQUOTE:(.+?)(?:\|(.*))?\]\]$", stripped)
+        if m_quote:
+            close_list()
+            attr = f'<span class="attr">{inline(m_quote.group(2))}</span>' if m_quote.group(2) else ""
+            out.append(f'<div class="pullquote">{inline(m_quote.group(1))}{attr}</div>')
+            i += 1
+            continue
+
+        m_sign = re.match(r"^\[\[SIGN:(.+)\]\]$", stripped)
+        if m_sign:
+            close_list()
+            out.append(f'<p class="signature">{inline(m_sign.group(1))}</p>')
+            i += 1
+            continue
+
+        m_auth = re.match(r"^\[\[AUTHOR:(.+?)\|(.+?)\|(.+)\]\]$", stripped)
+        if m_auth:
+            close_list()
+            out.append(f'<div class="authorcard"><div class="avatar">{html.escape(m_auth.group(1))}</div>'
+                       f'<div class="who"><strong>{inline(m_auth.group(2))}</strong><br>'
+                       f'<span>{inline(m_auth.group(3))}</span></div></div>')
             i += 1
             continue
 

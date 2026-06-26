@@ -65,11 +65,50 @@ figcaption { font-size: 0.82rem; color: #64748b; margin-top: 8px; font-style: it
 .chips span { background: rgba(255,255,255,.12); border: 1px solid rgba(134,239,172,.5);
               color: #ecfdf5; padding: 6px 13px; border-radius: 999px; font-size: 0.82rem; font-weight: 600; }
 
+/* Personal "from my own game" story sidebars (warm tone) */
+.story { background: #fffbeb; border: 1px solid #fde68a; border-left: 5px solid #f59e0b;
+         border-radius: 8px; padding: 0.85rem 1.1rem; margin: 1.3rem 0; page-break-inside: avoid; }
+.story-title { font-size: 0.72rem; letter-spacing: 1.5px; text-transform: uppercase;
+               color: #b45309; font-weight: 700; margin-bottom: 4px; display: block; }
+.story p { margin: 0.2rem 0; color: #4b3f1f; }
+
+/* Pull quotes */
+.pullquote { position: relative; max-width: 600px; margin: 2rem auto; text-align: center;
+             font-size: 1.4rem; line-height: 1.4; font-style: italic; color: #0b3d2e;
+             padding: 0 10px; page-break-inside: avoid; }
+.pullquote::before { content: "\201C"; display: block; font-size: 3.4rem; color: #86efac;
+                     line-height: 0.6; margin-bottom: 6px; }
+.pullquote .attr { display: block; font-size: 0.85rem; color: #64748b; font-style: normal; margin-top: 10px; }
+
+/* Author card + signature */
+.authorcard { display: flex; align-items: center; gap: 14px; background: #f0fdf4;
+              border: 1px solid #bbf7d0; border-radius: 10px; padding: 12px 16px; margin: 1.2rem 0; }
+.avatar { flex: 0 0 auto; width: 54px; height: 54px; border-radius: 50%; background: #0b3d2e;
+          color: #fff; font-weight: 700; font-size: 1.2rem; display: flex; align-items: center;
+          justify-content: center; letter-spacing: 1px; }
+.authorcard .who { font-size: 0.95rem; }
+.authorcard .who strong { color: #0b3d2e; }
+.authorcard .who span { color: #64748b; font-size: 0.85rem; }
+.signature { font-family: "Segoe Script", "Brush Script MT", "Comic Sans MS", cursive;
+             font-size: 1.6rem; color: #0b3d2e; margin: 4px 0; }
+
 @media print { body { padding: 0; } a { color: inherit; text-decoration: none; } }
 </style>
 </head>
 <body>
 <div class="cover"><svg class="cover-icon" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><polygon points="38,66 62,66 80,16 20,16" fill="#ffffff" fill-opacity="0.92" stroke="#86efac" stroke-width="2"/><line x1="50" y1="66" x2="50" y2="16" stroke="#86efac" stroke-width="1.5"/><line x1="44" y1="66" x2="34" y2="16" stroke="#86efac" stroke-width="1.5"/><line x1="56" y1="66" x2="66" y2="16" stroke="#86efac" stroke-width="1.5"/><line x1="30" y1="40" x2="70" y2="40" stroke="#86efac" stroke-width="1.2"/><ellipse cx="50" cy="74" rx="15" ry="13" fill="#16a34a"/><ellipse cx="50" cy="71" rx="15" ry="9" fill="#22c55e"/></svg><div class="kicker">BADMINTON PERFORMANCE GUIDE</div><h1 class="cover-title">The Off-Court Edge</h1><div class="cover-rule"></div><div class="cover-sub">What Strong Badminton Players Actually Do Away From the Court</div><p class="cover-tag">The deep, sport-specific guide to power, movement, durability, fuelling and the mental/tactical game — not generic fitness advice.</p><div class="chips"><span>Power &amp; Smash</span><span>Braking Strength</span><span>Tendon Health</span><span>Footwork</span><span>Interval Conditioning</span><span>Tournament Fuelling</span><span>Recovery</span><span>Tactics &amp; Drift</span></div></div>
+<h2>First, a quick word from me</h2>
+<p>Hey — I&#x27;m really glad you&#x27;ve got this in your hands.</p>
+<p>Let me be honest with you before we get into any training. For years, I was the player who just turned up and hit. I loved the game, I practised my shots, and I genuinely thought that was enough. But I kept hitting a wall — losing to people I knew I was <em>technically</em> better than, fading in third games, picking up the same annoying niggles. And I couldn&#x27;t work out why.</p>
+<p>It turned out the gap was never my shots. It was everything I <em>wasn&#x27;t</em> doing away from the court.</p>
+<p>When I finally started training the off-court stuff properly — the way I&#x27;m about to share with you — my game changed more in a few months than it had in years of just hitting. I moved better, lasted longer, stopped getting hurt, and started winning the close ones. This guide is everything I wish someone had handed me back when I was stuck.</p>
+<p>Here&#x27;s my promise to you: <strong>no filler, no recycled fitness clichés, and nothing you can&#x27;t actually use.</strong> And here&#x27;s my ask: don&#x27;t try to do all of it at once. Pick <em>one</em> thing that hit home, give it an honest few weeks, and let it build from there. That&#x27;s how this actually works.</p>
+<p>I really hope it helps your game as much as it helped mine. If it does, I&#x27;d genuinely love to hear about it.</p>
+<p>See you on the other side of the net,</p>
+<p class="signature">[Your name here]</p>
+<div class="authorcard"><div class="avatar">YOU</div><div class="who"><strong>[Your name] — badminton player &amp; coach</strong><br><span><em>Replace this with a line about you: your club, your level, why you love the game.</em></span></div></div>
+<blockquote><strong>Make this yours:</strong> the note above is written in your voice — swap in your name and tweak a sentence or two so it sounds like <em>you</em>. A personal hello is what turns a &quot;PDF&quot; into something people connect with.</blockquote>
+<hr>
 <h2>Why this guide is different</h2>
 <p>Most &quot;badminton fitness&quot; content is recycled general gym advice with a shuttle on the cover. This isn&#x27;t that. Everything here is built around how badminton <em>actually</em> loads the body and how points are <em>actually</em> won — the things that separate players who plateau from players who keep climbing.</p>
 <p>If you already train, you can skip the obvious. This is the layer underneath: <em>why</em> your lunge knee aches, <em>where</em> your smash power really comes from, <em>why</em> jogging makes you slower, how to fuel a chaotic tournament day, and how to read a hall before you&#x27;ve hit a shuttle.</p>
@@ -111,6 +150,7 @@ figcaption { font-size: 0.82rem; color: #64748b; margin-top: 8px; font-style: it
 </ul>
 <figure><svg viewBox="0 0 470 470" xmlns="http://www.w3.org/2000/svg" role="img"><circle cx="210" cy="50" r="22" fill="#86efac"/><line x1="210" y1="82" x2="210" y2="228" stroke="#86efac" stroke-linecap="round" fill="none" stroke-width="48"/><line x1="170" y1="106" x2="250" y2="106" stroke="#86efac" stroke-linecap="round" fill="none" stroke-width="20"/><line x1="172" y1="110" x2="150" y2="205" stroke="#86efac" stroke-linecap="round" fill="none" stroke-width="17"/><line x1="248" y1="110" x2="288" y2="200" stroke="#86efac" stroke-linecap="round" fill="none" stroke-width="17"/><line x1="196" y1="225" x2="190" y2="338" stroke="#86efac" stroke-linecap="round" fill="none" stroke-width="23"/><line x1="190" y1="338" x2="184" y2="430" stroke="#86efac" stroke-linecap="round" fill="none" stroke-width="19"/><line x1="224" y1="225" x2="230" y2="338" stroke="#86efac" stroke-linecap="round" fill="none" stroke-width="23"/><line x1="230" y1="338" x2="236" y2="430" stroke="#86efac" stroke-linecap="round" fill="none" stroke-width="19"/><line x1="250" y1="108" x2="320" y2="108" stroke="#ef4444" stroke-width="1.2" stroke-dasharray="3 2"/><circle cx="250" cy="108" r="7" fill="#ef4444" stroke="#fff" stroke-width="2"/><text x="326" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#b91c1c" font-weight="600" text-anchor="start" >Smash shoulder (cuff)</text><line x1="286" y1="165" x2="320" y2="165" stroke="#ef4444" stroke-width="1.2" stroke-dasharray="3 2"/><circle cx="286" cy="165" r="7" fill="#ef4444" stroke="#fff" stroke-width="2"/><text x="326" y="169" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#b91c1c" font-weight="600" text-anchor="start" >Elbow &amp; forearm</text><line x1="232" y1="380" x2="320" y2="380" stroke="#ef4444" stroke-width="1.2" stroke-dasharray="3 2"/><circle cx="232" cy="380" r="7" fill="#ef4444" stroke="#fff" stroke-width="2"/><text x="326" y="384" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#b91c1c" font-weight="600" text-anchor="start" >Achilles &amp; calf</text><line x1="210" y1="165" x2="150" y2="165" stroke="#ef4444" stroke-width="1.2" stroke-dasharray="3 2"/><circle cx="210" cy="165" r="7" fill="#ef4444" stroke="#fff" stroke-width="2"/><text x="144" y="169" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#b91c1c" font-weight="600" text-anchor="end" >Lower back</text><line x1="190" y1="338" x2="150" y2="338" stroke="#ef4444" stroke-width="1.2" stroke-dasharray="3 2"/><circle cx="190" cy="338" r="7" fill="#ef4444" stroke="#fff" stroke-width="2"/><text x="144" y="342" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#b91c1c" font-weight="600" text-anchor="end" >Patellar tendon (knee)</text><line x1="184" y1="425" x2="150" y2="425" stroke="#ef4444" stroke-width="1.2" stroke-dasharray="3 2"/><circle cx="184" cy="425" r="7" fill="#ef4444" stroke="#fff" stroke-width="2"/><text x="144" y="429" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#b91c1c" font-weight="600" text-anchor="end" >Ankle (sprains)</text></svg><figcaption>Badminton&#x27;s most common breakdown points. Almost none are protected by a generic gym program — they need the specific eccentric and isometric work in Part 3.</figcaption></figure>
 <p>Almost none of these get protected by generic gym programs. They need specific, often <em>isometric</em> and <em>eccentric</em> work — that&#x27;s the heart of Part 3.</p>
+<div class="pullquote">The shuttle doesn&#x27;t care how good your smash is — only whether you arrived in balance to hit it.</div>
 <hr>
 <h2>Part 2 — Where your smash power actually comes from</h2>
 <p>Ask most players where smash power comes from and they&#x27;ll say &quot;the wrist.&quot; <strong>This is wrong, and believing it caps your power and wrecks your forearm.</strong></p>
@@ -125,6 +165,7 @@ figcaption { font-size: 0.82rem; color: #64748b; margin-top: 8px; font-style: it
 </ol>
 <h3>The relaxation secret</h3>
 <p>Elite power comes from <strong>staying loose until the very last instant</strong>, then tightening the grip and pronating explosively at contact. A permanently tight grip <em>slows</em> the racket head. This &quot;loose-then-snap&quot; is a timing skill, but off-court you can build the underlying quality: <strong>fast, relaxed, then sharply accelerating rotational movements</strong> (med-ball throws train exactly this feeling).</p>
+<div class="story"><span class="story-title">From my own game — when I stopped &quot;flicking my wrist&quot;</span><p>For years I tried to smash harder by snapping my wrist as hard as I could. All it gave me was a sore elbow and a smash that still sat up nicely for my opponent. The day a coach showed me the power actually lives in forearm rotation — with a relaxed grip that only tightens at the last instant — my smash got heavier <em>and</em> my elbow stopped aching. Same effort, twice the shuttle. I still remember how strange &quot;do less, but at the right moment&quot; felt.</p></div>
 <h3>Off-court training that builds smash power</h3>
 <ul>
 <li><strong>Rotational medicine-ball throws</strong> (side throw into a wall, half-kneeling and standing) — the single best transfer exercise for smash and clear power. 3–4 sets of 4–6 explosive throws each side, fully recovered. Throw <em>fast</em>, not heavy.</li>
@@ -151,6 +192,7 @@ figcaption { font-size: 0.82rem; color: #64748b; margin-top: 8px; font-style: it
 <li><strong>Isometric calf hold</strong> (mid-range single-leg heel raise, hold) — 5 x 30s each leg, for the Achilles.</li>
 </ul>
 <p>Do these 2–3x/week, especially in heavy playing periods.</p>
+<div class="story"><span class="story-title">From my own game — the niggle I wish I hadn&#x27;t ignored</span><p>I had a tightness in my Achilles for weeks and kept telling myself it would settle if I just toughened up and pushed through. It didn&#x27;t — it turned into months off the court, watching from the sideline. Here&#x27;s what I&#x27;d tell my younger self: if a tendon warms up during play but aches again the next morning, that&#x27;s not weakness to push through — it&#x27;s an early warning. Ten minutes of isometrics a week is a lot cheaper than three months off. I learned that the expensive way so you don&#x27;t have to.</p></div>
 <h3>3. Calf &amp; Achilles robustness — non-negotiable after ~25</h3>
 <p>Badminton&#x27;s explosive push-offs make the Achilles a genuine rupture risk in adult players. Build capacity:</p>
 <ul>
@@ -244,6 +286,7 @@ figcaption { font-size: 0.82rem; color: #64748b; margin-top: 8px; font-style: it
 <li>For long matches/hot halls, use a drink with <strong>sodium/electrolytes</strong>, not just water — plain water alone during heavy sweating can backfire.</li>
 <li>If you&#x27;re a heavy/salty sweater (white salt marks on kit), you likely need more sodium than most.</li>
 </ul>
+<div class="story"><span class="story-title">From my own game — the third game I gave away</span><p>I was a game up and cruising in the second when my legs turned to concrete and both calves locked up with cramp. I lost in three to someone I really should have beaten. The honest truth? I&#x27;d barely eaten or drunk all day — too nervous in the morning, too busy between matches. I didn&#x27;t lose that match on court. I lost it in the hours before I even stepped on. Now I treat tournament-day fuelling as part of my game, not an afterthought.</p></div>
 <h3>Fuelling back-to-back matches</h3>
 <ul>
 <li>Between matches, prioritise <strong>carbs to refill energy</strong> plus fluids; add a little protein if the gap is long.</li>
@@ -299,6 +342,9 @@ figcaption { font-size: 0.82rem; color: #64748b; margin-top: 8px; font-style: it
 <p>Badminton momentum swings hard and fast. The skill is <strong>stopping a run</strong>:</p>
 <ul>
 <li>After losing 3–4 quick points, <strong>deliberately slow the pace</strong> — take your full time between points, change something small (serve placement, target), and reset your routine. Breaking the opponent&#x27;s rhythm is a legitimate tactic.</li>
+</ul>
+<div class="story"><span class="story-title">From my own game — blowing a 19–14 lead</span><p>Being ahead and then losing used to absolutely crush me. I&#x27;d tighten up, start rushing, and hand the points right back — and the more I panicked, the faster it slipped away. What finally fixed it wasn&#x27;t a new shot or more power. It was a boring little routine between points: turn away, breathe out slowly, one clear thought, then play. Deliberately unglamorous — and it&#x27;s won me more close games than any smash ever has. If you only steal one habit from this guide, steal this one.</p></div>
+<ul>
 <li>Between points, a fixed micro-routine (turn away, adjust strings, one long exhale, one cue word, ready) keeps emotion from leaking into the next rally.</li>
 </ul>
 <h3>Pre-match prep that works</h3>
@@ -479,10 +525,17 @@ figcaption { font-size: 0.82rem; color: #64748b; margin-top: 8px; font-style: it
 </tr>
 </tbody></table>
 <hr>
-<h2>Final word</h2>
+<h2>Real talk before you go</h2>
+<p>Here&#x27;s the part most guides leave out: <strong>you&#x27;re going to miss sessions.</strong> Life gets busy, motivation dips, and some weeks the gym is the last place you want to be. That&#x27;s normal — it doesn&#x27;t mean you&#x27;ve failed.</p>
+<p>The players who improve aren&#x27;t the ones who never slip. They&#x27;re the ones who, after a bad week, just quietly start again. Don&#x27;t aim for perfect. Aim for <em>most weeks, most of the time</em>, for a long time. That&#x27;s genuinely all it takes, and it beats a heroic month followed by giving up every single time.</p>
+<p>So be kind to yourself, keep it simple, and keep showing up.</p>
+<div class="pullquote">You don&#x27;t rise to your talent on match day — you fall to the level of your preparation. So prepare for the player you want to become.</div>
+<h2>A final word</h2>
 <p>The players who keep improving aren&#x27;t grinding more shuttles than everyone else — they&#x27;re the ones who understand the sport&#x27;s real demands and train the hidden layers: braking strength, elastic footwork, the smash kinetic chain, interval conditioning, tournament fuelling, and the tactical reads around the points. Pick one layer, give it six honest weeks, track it, and you&#x27;ll feel it on court.</p>
-<p>Now go train the things your opponents don&#x27;t even know about.</p>
-<p><em>— The Off-Court Edge</em></p>
+<p>I&#x27;m genuinely excited for you. The fact that you read this far tells me you care about getting better — and that&#x27;s the hardest part to teach. The rest is just showing up.</p>
+<p>Now go and train the things your opponents don&#x27;t even know about. I&#x27;ll be cheering for you.</p>
+<p>See you on the other side of the net,</p>
+<p class="signature">[Your name here]</p>
 <hr>
 <p><em>Thank you for buying this guide. If it helped your game, a quick review or passing it to a clubmate means a lot. Train smart, play sharp.</em></p>
 </body>
